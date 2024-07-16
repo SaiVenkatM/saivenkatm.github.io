@@ -21,8 +21,9 @@ author: Sai Venkat
 
 navbar-links:
   About Me: "aboutme"
-  Projects:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+  Projects: "projects"
+    #- Beautiful Jekyll: "https://beautifuljekyll.com"
+  Academic: "academic"
   #Author's home: "https://deanattali.com"
 
 ################
