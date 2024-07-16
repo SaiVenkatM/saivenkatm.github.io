@@ -12,7 +12,7 @@ Currently,
 - I am focused on building distributed systems [working with [Ray](https://docs.ray.io/en/latest/index.html)! to build efficient system for Deep Learning and Machine Learning applications]. My goal is to leverage my skills to create impactful solutions.
 - Working on Bird habitats and conservation, where We are applying ML, parallel computation, and GPU processing to model the dynamics of animal habitats, with a particular focus on birds. The goal is to obtain computational models that can inform conservation and climate efforts. Joint project with Prof. Luca De alfaro, Prof. Natalia Ocampo-Peñuela, Prof. Tyler Sorensen and others.
 
-Outside of my professional and academic endeavors, I find great joy in activities(I love playing tennis and going on a run). Whether it's getting lost in a captivating book, exploring the great outdoors, or diving into the latest tech trends, and these experiences enrich my perspective and fuel my drive to innovate.
+Outside of my professional and academic endeavors, I find great joy in activities(I love playing tennis and going on a run). Whether it's getting lost in a book, exploring the great outdoors, or diving into the latest tech trends, and these experiences enrich my perspective and fuel my drive to innovate.
 
 Feel free to connect with me if you share similar interests or have exciting projects to discuss. I'm always open to new opportunities and collaborations!
 
