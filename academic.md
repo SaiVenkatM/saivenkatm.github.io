@@ -14,7 +14,7 @@ title: Academic
 <!-- **Thesis/Project Title**: [Title]-->
 - **Advisor**: Prof. Luca De Alfaro, Prof. Liting Hu
 - **Relevant Courses**: [Analysis of Algorithms], [Applied Bayesian Statistics], [Advance Deep Learning], [Artificial Intelligence]
-- **GPA**: [4.0] (Optional)
+- **GPA**: [4.0] 
 
 
 ## Research Experience
@@ -61,30 +61,25 @@ title: Academic
 **University of California, Santa Cruz**  
 *Sep 2023 - Dec 2023*
 
-<!-- Description of the course and your role. Mention any specific achievements or feedback. -->
+- Responsible for creating the grading scripts, which take care of grading the student assignment.
+- Helping students in application & understanding of Data Structures, Algorithms.
 
 ### [Graduate Teaching Assistant]
 **Data Structure and Algorithms**  
 **University of California, Santa Cruz**  
 *Jan 2024 - Mar 2024*
 
-<!-- Description of the course and your role. Mention any specific achievements or feedback. -->
+- Responsible for examination procedures, preparing exams and rubric for grading.
+- Tutoring Students 
+
 
 ### [Graduate Teaching Assistant]
 **Applied Discrete Mathematics**  
 **University of California, Santa Cruz**  
 *Apr 2024 - Jun 2024*
 
-## Skills
+- Responsible for examination procedures, coordinating tutors/graders effectively to complete tasks in time.
 
-- **Technical Skills**: [Skill 1], [Skill 2], [Skill 3]
-- **Languages**: [C++] (Advanced), [Python] (Advanced), [Java] (Intermediate), [Go] (Beginner)
-- **Other Skills**: [Skill 1], [Skill 2], [Skill 3]
-
-<!-- ## Professional Memberships
-
-- **[Organization Name]**, Member, *Year - Year*
-- **[Organization Name]**, Member, *Year - Year* -->
 
 ## References
 
