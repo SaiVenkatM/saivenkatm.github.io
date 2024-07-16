@@ -1,10 +1,8 @@
---
-
+---
 layout: page
-title: Skills
+title: Technical Skills
 
---
-
+---
 ### Programming Languages
 
 - **Python**: ██████████ 100%
