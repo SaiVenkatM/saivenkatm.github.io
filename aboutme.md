@@ -4,7 +4,7 @@ title: About me
 
 ---
 
-Hello there! I'm Venkat (Sai Venkat, He/Him) a passionate and driven individual with a love for technology and innovation. With a background in CS, I have developed a deep understanding and appreciation for Software Engineering.
+Hello there! I'm Venkat (Sai Venkat, He/Him) a driven individual with a love for technology and innovation. With a background in CS, I have developed a deep understanding and appreciation for Software Engineering.
 
 My journey has led me to explore various domains, from development of simple programs  to building systems at scale. I thrive on challenges and am always eager to learn and adapt to new advancements in the tech world.
 
