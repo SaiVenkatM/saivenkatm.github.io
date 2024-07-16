@@ -28,7 +28,7 @@ navbar-links:
   Projects: "projects"
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
   Academic: "academic"
-  Technical Skills: "skills"
+  Skills: "skills"
   #Author's home: "https://deanattali.com"
 
 ################
