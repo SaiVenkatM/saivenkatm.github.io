@@ -1,4 +1,9 @@
-## Skills
+--
+
+layout: page
+title: Skills
+
+--
 
 ### Programming Languages
 
