@@ -18,8 +18,8 @@ title: Technical Skills
 |---------------------------|---------------------------------|
 |**MySQL**: ██████░░░░░ 60% |**Git**: ██████████ 80%          | 
 |**Redis**: ███░░░░░░░░ 30% |**Docker**: ███████░░░░░ 70%     |
-                            |**AWS**: █████░░░░░░░ 50%        |
-                            |**Google Cloud**: ██████░░░░ 60% | 
+|                           | **AWS**: █████░░░░░░░ 50%       |
+|                           |**Google Cloud**: ██████░░░░ 60% | 
 
 
  | Development Methodologies |        Other Technical Skills    |
