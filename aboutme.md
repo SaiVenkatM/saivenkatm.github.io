@@ -19,8 +19,3 @@ Feel free to connect with me if you share similar interests or have exciting pro
 ---
 
 
-
-What else do you need?
-
-### My story
-
