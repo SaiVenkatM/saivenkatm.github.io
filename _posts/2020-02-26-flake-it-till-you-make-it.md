@@ -6,8 +6,7 @@ cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [tennis, history]
-author: ** Sai Venkat Malreddy**  
-
+author: Sai Venkat Malreddy
 ---
 
 In the realm of tennis, the forehand stroke is both a fundamental and a transformative aspect of the game. Its evolution from a simple, straightforward technique to a sophisticated and nuanced stroke mirrors the broader development of the sport itself. This blog will explore the forehand’s journey in detail, examining how it has evolved, the complexities introduced over time, and how embracing simplicity has often led to mastery.
