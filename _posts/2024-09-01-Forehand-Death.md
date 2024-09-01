@@ -83,7 +83,7 @@ In tennis, applying this philosophy means identifying and eliminating unnecessar
 
 - **Novak Djokovic:** Djokovic’s forehand is known for its consistency and control. His technique emphasizes a stable wrist and controlled swing path, reflecting a focus on core principles. Djokovic’s adaptability on various surfaces, including his impressive performances at Wimbledon, showcases how his forehand’s simplicity in execution allows him to adjust his game effectively against different opponents.
 
-![Novak Djokovic](/assets/img/djokovi.png) <!-- Replace with actual image URL -->
+![Novak Djokovic](/assets/img/dj.jpg) <!-- Replace with actual image URL -->
 
 - **Rafael Nadal:** Nadal’s forehand, with its heavy topspin, benefits from a streamlined technique that maximizes spin and control. Nadal’s approach to the forehand, particularly on the clay courts, demonstrates how a focused, fundamental adjustment can lead to exceptional results. At Wimbledon, Nadal’s forehand is less spin-oriented but still showcases his adaptability and precision, reflecting his ability to modify his technique for different playing conditions.
 
@@ -93,13 +93,13 @@ In tennis, applying this philosophy means identifying and eliminating unnecessar
 
 Dominic Thiem’s forehand evolution is a prime example of refining technique through subtraction. By shortening his backswing, Thiem improved his ability to hit the ball with greater precision and control. This adjustment highlights how simplifying the technique can enhance performance without adding complexity.
 
-![Dominic Thiem Evolution](https://example.com/dominic-thiem-evolution.jpg) <!-- Replace with actual image URL -->
+![Dominic Thiem Evolution](/assets/img/dtheim.jpg) <!-- Replace with actual image URL -->
 
 ### Current Stars: Carlos Alcaraz and Jannik Sinner
 
 - **Carlos Alcaraz:** The young Spanish sensation Carlos Alcaraz has quickly made a name for himself with his explosive forehand. His technique combines elements of power and precision with an impressive ability to hit with both depth and accuracy. At Wimbledon, Alcaraz’s forehand has been a significant factor in his success, allowing him to dictate play and execute aggressive shots with a blend of power and finesse.
 
-![Carlos Alcaraz](/assets/img/alcaraz.jpeg) <!-- Replace with actual image URL -->
+![Carlos Alcaraz](/assets/img/alcaraz_carlos.jpg) <!-- Replace with actual image URL -->
 
 - **Jannik Sinner:** Italian prodigy Jannik Sinner is another player whose forehand has evolved impressively. Known for its speed and precision, Sinner’s forehand is a key component of his aggressive baseline game. At Wimbledon, his ability to generate power and maintain control with his forehand has made him a formidable opponent, showcasing the effectiveness of a well-honed, modern technique.
 
