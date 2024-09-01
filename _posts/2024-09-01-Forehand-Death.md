@@ -35,7 +35,7 @@ Björn Borg, a Swedish tennis legend, introduced a new dimension to the forehand
 
 Ivan Lendl, another iconic figure, brought a different aspect to the forehand. His powerful, flat strokes were a departure from the previous topspin-heavy approaches. Lendl’s forehand emphasized sheer power and accuracy, allowing him to dictate play and put pressure on his opponents. His success with this approach demonstrated the effectiveness of a more aggressive forehand strategy.
 
-![Ivan Lendl Forehand](/assets/img/Ivan.jpeg) <!-- Replace with actual image URL -->
+![Ivan Lendl](/assets/img/ivanl.jpg) <!-- Replace with actual image URL -->
 
 Lendl's dominance during his career illustrated how adapting the forehand to focus on raw power could shift the dynamics of the game. His approach influenced future generations, setting the stage for the evolving forehand techniques seen today.
 
@@ -49,7 +49,7 @@ As tennis progressed into the 1990s and 2000s, the forehand stroke became increa
 
 One notable example is Rick Macci’s instructional video on the forehand, which provides an in-depth analysis of the stroke. Macci emphasizes various adjustments, including shoulder torque, elbow positioning, and racquet inversion. His approach reflects a growing trend towards detailed technical instruction, which can sometimes overwhelm players with conflicting advice.
 
-![Rick Macci Forehand](https://example.com/rick-macci-forehand.jpg) <!-- Replace with actual image URL -->
+![Rick Macci](/assets/img/rickmacci.jpeg) <!-- Replace with actual image URL -->
 
 **Example from Macci’s Video:**
 
@@ -59,7 +59,7 @@ Macci’s video presents a series of specific techniques aimed at achieving a �
 
 Despite the surge in technical complexity, some players have successfully embraced a simpler approach. Juan Martin del Potro, for instance, is known for his straightforward forehand technique. Del Potro’s approach involves a relatively simple swing, focusing on extending the wrist, lifting the racquet tip, and following through with a smooth motion. His success demonstrates that a less complicated technique can be highly effective.
 
-![Juan Martin del Potro](https://example.com/del-potro-forehand.jpg) <!-- Replace with actual image URL -->
+![Juan Martin del Potro](/assets/img/delpotro.jpg) <!-- Replace with actual image URL -->
 
 **Comparison with Modern Players:**
 
