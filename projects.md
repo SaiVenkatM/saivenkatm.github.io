@@ -27,7 +27,6 @@ title: Projects
 
 ### Key Contributions:
 - Developed a web interface for visualizing bird habitats and model predictions.
-- Integrated MongoDB for efficient data storage and retrieval.
 - Implemented parallel processing techniques to handle large-scale computations.
 
 <!-- 
