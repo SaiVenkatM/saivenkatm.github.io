@@ -79,8 +79,4 @@
 
 ---
 
-## Contact Information
-- **Email**: saivenkatmalreddy@gmail.com  
-- **LinkedIn**: [sai-venkat-malreddy](https://www.linkedin.com/in/sai-venkat-malreddy)  
-- **GitHub**: [SaiVenkatM](https://github.com/SaiVenkatM)  
-- **Location**: San Jose, CA
+
