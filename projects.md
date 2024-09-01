@@ -3,6 +3,7 @@ layout: page
 title: Projects
 
 ---
+
 ## Distributed Data Pipeline for ETL Processes
 **Technologies**: Python, Ray, Py4web, Docker, AWS  
 **Summary**: Developed a scalable ETL pipeline for efficient data extraction, transformation, and loading (ETL) from SQL databases, REST APIs, and CSV files. The pipeline leverages Ray for distributed processing, ensuring high efficiency and scalability in data workflows.
@@ -17,6 +18,32 @@ title: Projects
 - [GitHub Repository](https://github.com/SaiVenkatM/distributed-etl-pipeline) 
 -->
 
+---
+
+
+## Browser for Bird Habitat Modeling and Connectivity
+**Technologies**: Py4web, Python, MySQL, Docker, Google Cloud
+**Summary**: A web application designed to model and analyze bird habitats using machine learning and parallel computation. The app allows researchers to visualize habitat dynamics and predict the impact of environmental changes on bird populations.
+
+### Key Contributions:
+- Developed a web interface for visualizing bird habitats and model predictions.
+- Integrated MongoDB for efficient data storage and retrieval.
+- Implemented parallel processing techniques to handle large-scale computations.
+
+<!-- 
+### Code & Documentation:
+- [GitHub Repository](https://github.com/SaiVenkatM/bird-habitat-modeling) 
+-->
+
+---
+## Actor Based MapReduce Framework
+**Technologies**: Distributed Systems, Elixir, Python  
+**Summary**: Developed an actor-based MapReduce framework with asynchronous messaging for system isolation, efficient task distribution, and fault tolerance. The framework automatically reassigns tasks in case of node failures, ensuring robustness in distributed environments.
+
+### Key Contributions:
+- Designed and implemented an actor-based framework to parallelize MapReduce tasks with automatic fault tolerance.
+- Leveraged asynchronous messaging for improved system performance and task distribution.
+- Achieved significant improvements in system reliability and efficiency through automated task reassignment.
 ---
 
 ## Community Management System
@@ -51,36 +78,12 @@ title: Projects
 
 ---
 
-## Actor Based MapReduce Framework
-**Technologies**: Distributed Systems, Elixir, Python  
-**Summary**: Developed an actor-based MapReduce framework with asynchronous messaging for system isolation, efficient task distribution, and fault tolerance. The framework automatically reassigns tasks in case of node failures, ensuring robustness in distributed environments.
 
-### Key Contributions:
-- Designed and implemented an actor-based framework to parallelize MapReduce tasks with automatic fault tolerance.
-- Leveraged asynchronous messaging for improved system performance and task distribution.
-- Achieved significant improvements in system reliability and efficiency through automated task reassignment.
 
 <!-- 
 ### Code & Documentation:
 - [GitHub Repository](https://github.com/SaiVenkatM/actor-mapreduce) 
 -->
 
----
-
-## Browser for Bird Habitat Modeling and Connectivity
-**Technologies**: Py4web, Python, MySQL, Docker, Google Cloud
-**Summary**: A web application designed to model and analyze bird habitats using machine learning and parallel computation. The app allows researchers to visualize habitat dynamics and predict the impact of environmental changes on bird populations.
-
-### Key Contributions:
-- Developed a web interface for visualizing bird habitats and model predictions.
-- Integrated MongoDB for efficient data storage and retrieval.
-- Implemented parallel processing techniques to handle large-scale computations.
-
-<!-- 
-### Code & Documentation:
-- [GitHub Repository](https://github.com/SaiVenkatM/bird-habitat-modeling) 
--->
-
----
 
 
