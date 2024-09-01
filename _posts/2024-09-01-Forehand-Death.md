@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Evolution of the Forehand - A Journey Through Simplicity and Mastery
-subtitle: Mastering Simplicity - The Power of Refined Technique in Tennis
+subtitle: The Power of Refined Technique in Tennis
 cover-img: /assets/img/tcover.jpg
 thumbnail-img: /assets/img/tcover3.jpg
 share-img: /assets/img/tcover2.jpg
