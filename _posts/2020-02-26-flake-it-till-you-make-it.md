@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Evolution of the Forehand: A Journey Through Simplicity and Mastery
-subtitle: 
+title: The Evolution of the Forehand - A Journey Through Simplicity and Mastery
+subtitle: Mastering Simplicity - The Power of Refined Technique in Tennis
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
