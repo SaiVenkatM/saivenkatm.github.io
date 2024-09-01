@@ -83,7 +83,7 @@ In tennis, applying this philosophy means identifying and eliminating unnecessar
 
 - **Novak Djokovic:** Djokovic’s forehand is known for its consistency and control. His technique emphasizes a stable wrist and controlled swing path, reflecting a focus on core principles. Djokovic’s adaptability on various surfaces, including his impressive performances at Wimbledon, showcases how his forehand’s simplicity in execution allows him to adjust his game effectively against different opponents.
 
-![Novak Djokovic](/assets/img/djokovi.jpg) <!-- Replace with actual image URL -->
+![Novak Djokovic](/assets/img/djokovi.png) <!-- Replace with actual image URL -->
 
 - **Rafael Nadal:** Nadal’s forehand, with its heavy topspin, benefits from a streamlined technique that maximizes spin and control. Nadal’s approach to the forehand, particularly on the clay courts, demonstrates how a focused, fundamental adjustment can lead to exceptional results. At Wimbledon, Nadal’s forehand is less spin-oriented but still showcases his adaptability and precision, reflecting his ability to modify his technique for different playing conditions.
 
