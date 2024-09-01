@@ -35,6 +35,7 @@ title: Projects
 -->
 
 ---
+
 ## Actor Based MapReduce Framework
 **Technologies**: Distributed Systems, Elixir, Python  
 **Summary**: Developed an actor-based MapReduce framework with asynchronous messaging for system isolation, efficient task distribution, and fault tolerance. The framework automatically reassigns tasks in case of node failures, ensuring robustness in distributed environments.
@@ -43,6 +44,7 @@ title: Projects
 - Designed and implemented an actor-based framework to parallelize MapReduce tasks with automatic fault tolerance.
 - Leveraged asynchronous messaging for improved system performance and task distribution.
 - Achieved significant improvements in system reliability and efficiency through automated task reassignment.
+
 ---
 
 ## Community Management System
