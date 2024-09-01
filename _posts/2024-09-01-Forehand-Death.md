@@ -29,13 +29,13 @@ The 1970s and 1980s marked a pivotal period in the evolution of the forehand. Th
 
 Björn Borg, a Swedish tennis legend, introduced a new dimension to the forehand with his heavy topspin shots. Borg’s technique involved a full, flowing swing with a grip that allowed for greater topspin, which enabled him to keep the ball in play with a higher net clearance and increased margin for error. His forehand became a defining characteristic of his playing style, contributing significantly to his success on the clay courts of Roland Garros.
 
-![Björn Borg Forehand](https://example.com/bjorn-borg-forehand.jpg) <!-- Replace with actual image URL -->
+![Björn Borg](/assets/img/Bjorn.jpg) <!-- Replace with actual image URL -->
 
 **Ivan Lendl’s Power Forehand:**
 
 Ivan Lendl, another iconic figure, brought a different aspect to the forehand. His powerful, flat strokes were a departure from the previous topspin-heavy approaches. Lendl’s forehand emphasized sheer power and accuracy, allowing him to dictate play and put pressure on his opponents. His success with this approach demonstrated the effectiveness of a more aggressive forehand strategy.
 
-![Ivan Lendl Forehand](https://example.com/ivan-lendl-forehand.jpg) <!-- Replace with actual image URL -->
+![Ivan Lendl Forehand](/assets/img/Ivan.jpeg) <!-- Replace with actual image URL -->
 
 Lendl's dominance during his career illustrated how adapting the forehand to focus on raw power could shift the dynamics of the game. His approach influenced future generations, setting the stage for the evolving forehand techniques seen today.
 
@@ -59,7 +59,7 @@ Macci’s video presents a series of specific techniques aimed at achieving a �
 
 Despite the surge in technical complexity, some players have successfully embraced a simpler approach. Juan Martin del Potro, for instance, is known for his straightforward forehand technique. Del Potro’s approach involves a relatively simple swing, focusing on extending the wrist, lifting the racquet tip, and following through with a smooth motion. His success demonstrates that a less complicated technique can be highly effective.
 
-![Juan Martin del Potro Forehand](https://example.com/del-potro-forehand.jpg) <!-- Replace with actual image URL -->
+![Juan Martin del Potro](https://example.com/del-potro-forehand.jpg) <!-- Replace with actual image URL -->
 
 **Comparison with Modern Players:**
 
@@ -79,15 +79,15 @@ In tennis, applying this philosophy means identifying and eliminating unnecessar
 
 - **Roger Federer:** Federer’s forehand is characterized by its balance and fluidity. He uses a simple grip and swing, allowing him to generate both power and precision with minimal extraneous movement. Federer’s ability to adapt his forehand based on the situation—whether hitting a powerful inside-out shot or a delicate slice—demonstrates the effectiveness of a refined, yet uncomplicated technique. At Wimbledon, Federer’s forehand is often a key weapon, enabling him to navigate the grass courts with ease, leveraging its natural bounce to control rallies.
 
-![Roger Federer Forehand](https://example.com/federer-forehand.jpg) <!-- Replace with actual image URL -->
+![Roger Federer](/assets/img/roger.jpg) <!-- Replace with actual image URL -->
 
 - **Novak Djokovic:** Djokovic’s forehand is known for its consistency and control. His technique emphasizes a stable wrist and controlled swing path, reflecting a focus on core principles. Djokovic’s adaptability on various surfaces, including his impressive performances at Wimbledon, showcases how his forehand’s simplicity in execution allows him to adjust his game effectively against different opponents.
 
-![Novak Djokovic Forehand](https://example.com/djokovic-forehand.jpg) <!-- Replace with actual image URL -->
+![Novak Djokovic](/assets/img/djokovi.jpg) <!-- Replace with actual image URL -->
 
 - **Rafael Nadal:** Nadal’s forehand, with its heavy topspin, benefits from a streamlined technique that maximizes spin and control. Nadal’s approach to the forehand, particularly on the clay courts, demonstrates how a focused, fundamental adjustment can lead to exceptional results. At Wimbledon, Nadal’s forehand is less spin-oriented but still showcases his adaptability and precision, reflecting his ability to modify his technique for different playing conditions.
 
-![Rafael Nadal Forehand](https://example.com/nadal-forehand.jpg) <!-- Replace with actual image URL -->
+![Rafael Nadal ](/assets/img/rafa.jpg) <!-- Replace with actual image URL -->
 
 ### Dominic Thiem’s Evolution
 
@@ -99,11 +99,11 @@ Dominic Thiem’s forehand evolution is a prime example of refining technique th
 
 - **Carlos Alcaraz:** The young Spanish sensation Carlos Alcaraz has quickly made a name for himself with his explosive forehand. His technique combines elements of power and precision with an impressive ability to hit with both depth and accuracy. At Wimbledon, Alcaraz’s forehand has been a significant factor in his success, allowing him to dictate play and execute aggressive shots with a blend of power and finesse.
 
-![Carlos Alcaraz Forehand](https://example.com/alcaraz-forehand.jpg) <!-- Replace with actual image URL -->
+![Carlos Alcaraz](/assets/img/alcaraz.jpeg) <!-- Replace with actual image URL -->
 
 - **Jannik Sinner:** Italian prodigy Jannik Sinner is another player whose forehand has evolved impressively. Known for its speed and precision, Sinner’s forehand is a key component of his aggressive baseline game. At Wimbledon, his ability to generate power and maintain control with his forehand has made him a formidable opponent, showcasing the effectiveness of a well-honed, modern technique.
 
-![Jannik Sinner Forehand](https://example.com/sinner-forehand.jpg) <!-- Replace with actual image URL -->
+![Jannik Sinner](/assets/img/sinner.jpg) <!-- Replace with actual image URL -->
 
 ## Conclusion: Embracing Simplicity for Excellence
 
