@@ -1,4 +1,8 @@
+---
+layout: page
+title: Projects
 
+---
 ## Distributed Data Pipeline for ETL Processes
 **Technologies**: Python, Ray, Py4web, Docker, AWS  
 **Summary**: Developed a scalable ETL pipeline for efficient data extraction, transformation, and loading (ETL) from SQL databases, REST APIs, and CSV files. The pipeline leverages Ray for distributed processing, ensuring high efficiency and scalability in data workflows.
