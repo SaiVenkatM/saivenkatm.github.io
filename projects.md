@@ -1,4 +1,3 @@
-# Sai Venkat Malreddy's Projects
 
 ## Distributed Data Pipeline for ETL Processes
 **Technologies**: Python, Ray, Py4web, Docker, AWS  
