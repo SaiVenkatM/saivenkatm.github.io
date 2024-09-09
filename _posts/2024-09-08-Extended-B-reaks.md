@@ -1,3 +1,15 @@
+---
+layout: post
+title: How regular extended breaks boost elite athletes' performance
+subtitle: Unlocking Peak Performance Through Strategic Rest
+cover-img: /assets/img/runcover.jpeg
+thumbnail-img: /assets/img/thumbnail.jpeg
+share-img: /assets/img/tcover2.jpg
+tags: [Running, Performance, Strategy, Athletic]
+author: Sai Venkat Malreddy
+---
+
+
 # The Benefits of Extended Breaks for Elite Athletes—and Why You Should Consider Them Too
 
 In the book *Peak Performance*, discover how taking significant breaks and rest periods can aid athletes in maintaining their health and preventing burnout.
@@ -29,7 +41,7 @@ We are not suggesting that you take breaks indiscriminately. Instead, like Lagat
 
 Failing to rest on weekends can degrade the quality of our work during the week, leading to a cycle of insufficient stress and inadequate recovery. To break this cycle, start by ensuring you take at least one full day off this weekend, disconnecting from work and related stressors. Research shows that taking time off can significantly boost vigor and performance, and the more you rest on weekends, the more productive you can be during the week. If taking a break seems challenging, use this book to discuss with your employer the importance of rest for optimal performance.
 
-During the writing of this book, we made it a point to take at least one day off each week, avoiding any writing or research on that day. Our most productive writing days consistently followed these rest days, often occurring the next day or two. Some individuals recover quickly from breaks, while others take more time. Identifying which category you fall into can help you schedule breaks more effectively, ensuring they are as beneficial as possible.
+During the writing of this book, they made it a point to take at least one day off each week, avoiding any writing or research on that day. Our most productive writing days consistently followed these rest days, often occurring the next day or two. Some individuals recover quickly from breaks, while others take more time. Identifying which category you fall into can help you schedule breaks more effectively, ensuring they are as beneficial as possible.
 
 While short rest days are essential, sometimes longer breaks are necessary for full recovery. Just as regular rest days should follow periods of stress, vacations should be planned after extended periods of intense work. Lagat’s five-week break occurs not during the season but after his final race of the year, when he is most in need of recovery. For musicians, this might involve taking a break after a tour or completing a record. For visual and material artists, it could mean resting after a gallery opening or finishing a challenging work. For intellectuals and business professionals, it might mean scheduling breaks after completing significant projects or deals.
 
