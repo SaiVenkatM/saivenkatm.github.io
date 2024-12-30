@@ -12,7 +12,7 @@ author: Sai Venkat Malreddy
 
 ## Introduction
 
-Deep Neural Networks (DNNs) have become essential in various applications, from computer vision to natural language processing. However, deploying these models efficiently at scale presents significant challenges. This blog post explores an innovative solution developed by researchers at UC Santa Cruz that implements dynamic batching in RAY to optimize GPU utilization while maintaining performance requirements.
+Deep Neural Networks (DNNs) have become essential in various applications, from computer vision to natural language processing. However, deploying these models efficiently at scale presents significant challenges. This blog post explores an innovative solution developed by us at UC Santa Cruz that implements dynamic batching in RAY to optimize GPU utilization while maintaining performance requirements.
 
 ## Understanding the Problem
 
