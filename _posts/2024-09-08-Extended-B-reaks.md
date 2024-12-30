@@ -4,7 +4,7 @@ title: How regular extended breaks boost elite athletes' performance
 subtitle: Unlocking Peak Performance Through Strategic Rest
 cover-img: /assets/img/runcover.jpeg
 thumbnail-img: /assets/img/thumbnail.jpeg
-share-img: /assets/img/tcover2.jpg
+share-img: /assets/img/thumbnail.jpeg
 tags: [Running, Performance, Strategy, Athletic]
 author: Sai Venkat Malreddy
 ---
