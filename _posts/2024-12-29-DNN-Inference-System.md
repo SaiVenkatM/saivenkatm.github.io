@@ -9,8 +9,6 @@ tags: [DNN Inference, RAY, Deep Learning, Systems, Batching, Nexus]
 author: Sai Venkat Malreddy
 ---
 
-# Dynamic Batching for DNN- Based Model Inference in RAY
-
 
 ## Introduction
 
