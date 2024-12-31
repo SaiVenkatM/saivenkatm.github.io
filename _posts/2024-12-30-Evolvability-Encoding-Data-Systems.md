@@ -100,15 +100,143 @@ Encoding protocols ensure that unknown fields in schemas are preserved during up
 
 ---
 
-### Real-World Scenario: Streaming Data in IoT
-Consider an IoT ecosystem where thousands of devices continuously send telemetry data to a central server. Initially, these devices might only transmit temperature readings. Over time, firmware updates enable them to include humidity and air quality metrics.
+
+
+
+### Real-World Scenario: API Evolution in Microservices
+Consider a user management microservice that handles authentication across multiple applications. Initially, the user profile only contained basic fields like name and email. As the system evolved, new requirements demanded additional fields for two-factor authentication and social media integration.
 
 To manage this evolution:
-- Devices use Protocol Buffers to encode their messages.
-- Older server versions decode temperature data and ignore unknown fields.
-- Newer servers decode all fields, leveraging added insights for predictive maintenance and analytics.
+- Services use Protocol Buffers for API contracts
+- Legacy clients continue to function with basic user profiles
+- Newer clients access enhanced authentication features
+- Rolling updates maintain system stability
 
-This approach ensures seamless upgrades without disrupting existing functionality, demonstrating the power of forward and backward compatibility in real-world applications.
+#### 1. Create the protocol buffer definitions:
+
+**v1:**
+
+```protobuf
+syntax = "proto3";
+
+package userservice;
+
+service UserService {
+    rpc GetUser (GetUserRequest) returns (User) {}
+}
+
+message GetUserRequest {
+    string user_id = 1;
+}
+
+message User {
+    string id = 1;
+    string email = 2;
+    string name = 3;
+}
+```
+
+**Evolution to v2 with new fields:**
+
+```protobuf
+syntax = "proto3";
+
+package userservice;
+
+service UserService {
+    rpc GetUser (GetUserRequest) returns (User) {}
+    rpc UpdateUserPreferences (UpdatePreferencesRequest) returns (User) {}
+}
+
+message GetUserRequest {
+    string user_id = 1;
+}
+
+message UpdatePreferencesRequest {
+    string user_id = 1;
+    UserPreferences preferences = 2;
+}
+
+message User {
+    string id = 1;
+    string email = 2;
+    string name = 3;
+    UserPreferences preferences = 4;  // New field
+    repeated string roles = 5;        // New field
+}
+
+message UserPreferences {
+    bool dark_mode = 1;
+    string language = 2;
+    repeated string notifications = 3;
+}
+```
+
+#### 2. Server implementation:
+
+```python
+from concurrent import futures
+import grpc
+import user_service_pb2
+import user_service_pb2_grpc
+
+class UserServicer(user_service_pb2_grpc.UserServiceServicer):
+    def GetUser(self, request, context):
+        # V2 server can handle both old and new clients
+        user = user_service_pb2.User(
+            id=request.user_id,
+            email="user@example.com",
+            name="Test User",
+            preferences=user_service_pb2.UserPreferences(
+                dark_mode=True,
+                language="en"
+            ),
+            roles=["user"]
+        )
+        return user
+
+def serve():
+    server = grpc.server(futures.ThreadPoolExecutor(max_workers=10))
+    user_service_pb2_grpc.add_UserServiceServicer_to_server(
+        UserServicer(), server
+    )
+    server.add_insecure_port('[::]:50051')
+    server.start()
+    server.wait_for_termination()
+
+if __name__ == '__main__':
+    serve()
+```
+
+#### 3. V1 Client example:
+
+```python
+import grpc
+import user_service_pb2
+import user_service_pb2_grpc
+
+def run():
+    with grpc.insecure_channel('localhost:50051') as channel:
+        stub = user_service_pb2_grpc.UserServiceStub(channel)
+        response = stub.GetUser(user_service_pb2.GetUserRequest(user_id="123"))
+        # V1 client only uses id, email, and name fields
+        print(f"User: {response.name} ({response.email})")
+
+if __name__ == '__main__':
+    run()
+```
+
+### This demonstrates:
+- **Backward compatibility**: V1 clients work with V2 server
+- **Forward compatibility**: V2 server can handle V1 requests
+- **Schema evolution**: New fields added without breaking existing clients
+- **Protocol Buffers handling unknown fields automatically**
+
+### To run:
+1. Generate Python code from protos
+2. Start server
+3. Run either V1 or V2 client
+
 
 ---
 
