@@ -1,6 +1,6 @@
 # Understanding Database Scale: A Deep Dive into Stripe's Infrastructure and Core Concepts
 
-*This article is an expanded analysis based on Stripe's engineering blog post ["How Stripe's document databases supported 99.999% uptime with zero-downtime data migrations"](https://stripe.com/blog/document-databases) published on June 6, 2024 by Jimmy Morzaria and Suraj Narkhede from the Database Infrastructure team.*
+*This article is an expanded analysis based on Stripe's engineering blog post ["How Stripe's document databases supported 99.999% uptime with zero-downtime data migrations"](https://stripe.com/blog/how-stripes-document-databases-supported-99.999-uptime-with-zero-downtime-data-migrations?utm_source=blog.quastor.org&utm_medium=referral&utm_campaign=the-architecture-of-stripe-s-document-database) published on June 6, 2024 by Jimmy Morzaria and Suraj Narkhede from the Database Infrastructure team.*
 
 *The original blog post discussed Stripe's implementation of DocDB and their Data Movement Platform. This analysis expands on their work with deeper explanations of CDC and oplog concepts within the context of Stripe's implementation.*
 
